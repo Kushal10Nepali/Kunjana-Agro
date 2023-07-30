@@ -2,7 +2,9 @@ import React from 'react'
 
 const faq = () => {
   return (
-    <div>faq</div>
+    <div>
+      Id it 100% organic ??
+    </div>
   )
 }
 
