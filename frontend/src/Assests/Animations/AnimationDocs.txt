@@ -1,0 +1,1 @@
+All the animations will be downloaded from lottie react npm packages.
