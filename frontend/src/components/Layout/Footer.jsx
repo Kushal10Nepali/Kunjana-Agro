@@ -177,7 +177,7 @@ const Footer = () => {
           </div>
           <div className="md:max-w-md lg:col-span-2">
             <span className="text-base font-medium tracking-wide text-gray-300">
-              Subscribe for updates
+              Subscribe for every updates
             </span>
             <form className="flex flex-col mt-4 md:flex-row">
               <input
@@ -200,7 +200,7 @@ const Footer = () => {
         </div>
         <div className="flex flex-col justify-between pt-5 pb-10 border-t border-gray-800 sm:flex-row">
           <p className="text-sm text-gray-500">
-            © Copyright 2020 Lorem Inc. All rights reserved.
+            © Copyright {Date.now}. All rights reserved.
           </p>
           <div className="flex items-center mt-4 space-x-4 sm:mt-0">
             <a
